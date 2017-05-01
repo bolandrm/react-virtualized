@@ -255,7 +255,7 @@ export default class Grid extends PureComponent {
     scrollToRow: -1,
     style: {},
     tabIndex: 0,
-    deferredMeasurementBatchAll: true,
+    deferredMeasurementBatchAll: true
   };
 
   constructor (props, context) {
